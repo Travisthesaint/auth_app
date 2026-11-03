@@ -12,10 +12,6 @@ A Flutter login and register app with form validation, a password-strength bar a
   <img src="screenshots/register.png" width="600" alt="Register page">
 </p>
 
-<p align="center">
-  <img src="screenshots/home.png" width="600" alt="Welcome screen">
-</p>
-
 ## Run it
 
     flutter pub get
